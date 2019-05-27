@@ -13,5 +13,6 @@ public class Suicide : MonoBehaviour {
 	void Update ()
     {
         Destroy(gameObject);
+        //Kamehameasdnlkvjs
 	}
 }
